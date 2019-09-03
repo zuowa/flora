@@ -1,2 +1,2 @@
-# flora
+# Flora
 student at sheridan
